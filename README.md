@@ -9,7 +9,7 @@ CNSA-Project: [CNP0010045](https://db.cngb.org/cnsa/)
 
 Interactive website: [HSA](http://db.genomics.cn/stomics/HSA)
 
-Github: [HS](https://github.com/BGI-DEV-REG/HSA)
+Github: [HSA](https://github.com/BGI-DEV-REG/HSA)
 
 ## Citation Information
 If you use content from this database in your research or project, please cite the following article:
