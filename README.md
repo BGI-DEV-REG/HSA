@@ -23,4 +23,4 @@ The tools used in this study can be explored at https://github.com/BGI-DEV-REG/A
 
 
 ## Contact
-weixiaoyu@genomics.cn; guanxiong_zhang@csu.edu.cn; dujiaxin@genomics.cn; mabaitong@genomics.cn; lijiashan@genomics.cn; liruikang@genomics.cn; liushuai4@genomics.cn
+weixiaoyu@genomics.cn; guanxiong_zhang@csu.edu.cn
